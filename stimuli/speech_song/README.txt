@@ -1,1 +1,1 @@
-
+This folder contains the speech to song stimulus set described in Tierney et al. (2013). Each stimulus is sampled at a rate of 22050 Hz. Stimuli 1-24 are illusion stimuli (transform to song after repetition) and 25-48 are control stimuli (do not transform to song). 
